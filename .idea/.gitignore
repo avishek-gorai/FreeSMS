@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+# I added
+
+/caches
+/libraries
+/modules.xml
+/navEditor.xml
+/assetWizardSettings.xml
+
+
+/misc.xml
+/deploymentTargetDropDown.xml
+/render.experimental.xml
